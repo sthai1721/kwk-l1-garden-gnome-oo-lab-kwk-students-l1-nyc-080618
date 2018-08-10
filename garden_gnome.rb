@@ -26,6 +26,10 @@ class GardenGnome
     @personality
   end
   
+  def hat_color
+    @hat_color
+  end
+  
   def gluten_allergy
       @gluten_allergy
   end
