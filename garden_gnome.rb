@@ -1,8 +1,7 @@
 # Code your instances here
 class GardenGnome
   
-  def initialize(name,hat_color="red")
-      @name = name
+  def initialize(hat_color="red")
       @personality = "evil"
       @hatcolor=hat_color
   end
@@ -25,6 +24,10 @@ class GardenGnome
   
   def gnaw
       returns "Gnawing on a tree!!!"
+  end
+  
+  def shout
+      returns "GNARLY!!!"
   end
 
 end
