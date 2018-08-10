@@ -16,3 +16,4 @@ class GardenGnome
 
 end
 
+GardenGnome.new("Name")
