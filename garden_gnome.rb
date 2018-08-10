@@ -16,4 +16,5 @@ class GardenGnome
 
 end
 
-GardenGnome.new("Name")
+test_gnome=GardenGnome.new("Name")
+
