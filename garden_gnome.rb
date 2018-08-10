@@ -27,7 +27,7 @@ class GardenGnome
   end
   
   def hat_color
-    @hat_color
+    @hatcolor
   end
   
   def gluten_allergy
