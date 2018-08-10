@@ -13,6 +13,10 @@ class GardenGnome
     @name=name
   end
   
+  def allergy(gluten_allergy)
+      @allergy=glutern_allergy
+  end
+  
 
 
 end
