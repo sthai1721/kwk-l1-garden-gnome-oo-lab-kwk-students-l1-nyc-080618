@@ -22,6 +22,10 @@ class GardenGnome
     @age=age
   end
   
+  def personality
+    @personality
+  end
+  
   def gluten_allergy
       @gluten_allergy
   end
